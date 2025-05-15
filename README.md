@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Navneet!
+# 👋 Hi there, I'm Navneet.
 
 I'm a passionate** Frontend Developer from India,** currently in my final year of B.Tech in Computer Science. 
 I specialize in building responsive, interactive web applications using modern technologies like **javascript, tailwindcss , typeScript** **React.js** , **Next.js**, 
